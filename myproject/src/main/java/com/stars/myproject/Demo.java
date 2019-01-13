@@ -2,7 +2,7 @@ package com.stars.myproject;
 
 public class Demo {
 	public static void main(String[] args) {
-		//123
+		//hello world
 		System.out.println("Hello world");
 		
 	}
